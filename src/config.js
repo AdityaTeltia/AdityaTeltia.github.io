@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'AdityaTeltia', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,84 +10,62 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
+        linkedin: 'aditya-teltia',
+        twitter: 'TeltiaAditya',
         facebook: '',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
-        phone: '',
-        email: 'contact@arifszn.com'
+        website: 'https://AdityaTeltia.github.io',
+        phone: '9255790854',
+        email: 'teltia.aditya22@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
         'JavaScript',
         'React.js',
-        'Vue.js',
         'Node.js',
-        'Jquery',
-        'MySQL',
+        'TypeScript',
+        'MongoDB',
+        'ExpressJS',
+        'Golang',
         'Git',
         'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
+            company: 'Intangles Pvt Ltd',
+            position: 'Software Engineer Intern',
+            from: 'August 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
+            company: 'Acciojobs',
+            position: 'Full Stack Engineer Intern',
+            from: 'May 2021',
             to: 'August 2021'
         },
-        { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
-        }
     ],
     education: [
         { 
-            institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
-            from: '2015',
-            to: '2019'
+            institution: 'Delhi Technological University',
+            degree: 'Bachelor of Technology (COE)',
+            from: '2020',
+            to: 'Present'
         },
         { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            institution: 'G.R.M Public School',
+            degree: 'Senior Secondary School',
+            from: '2019',
+            to: '2020',
         }
     ],
-    blog: {
-        // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
-        limit: 2 // How many posts to display. Max is 10.
-    },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
         id: 'G-WLLB5E14M6' // Please remove this and use your own tag id
     },
     themeConfig: {
-        default: 'light',
+        default: 'dark',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode

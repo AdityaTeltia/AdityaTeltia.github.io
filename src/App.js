@@ -164,7 +164,7 @@ function App() {
                             {/* DO NOT REMOVE/MODIFY THE FOOTER */}
                             <footer className="p-4 footer bg-base-200 text-base-content footer-center">
                                 <div>
-                                    <p className="font-mono text-sm">Made with ❤️ by<a className="text-primary" href="https://github.com/AdityaTeltia" target="_blank" rel="noreferrer">AdityaTeltia</a></p>
+                                    <p className="font-mono text-sm">Made with ❤️ by<a className="text-primary" href="https://github.com/AdityaTeltia" target="_blank" rel="noreferrer"> Aditya Teltia</a></p>
                                 </div>
                             </footer>
                         </Fragment>
